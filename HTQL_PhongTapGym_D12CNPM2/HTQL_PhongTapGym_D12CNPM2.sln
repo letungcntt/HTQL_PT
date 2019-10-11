@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTQL_PhongTapGym_D12CNPM2", "HTQL_DenDuong_D12CNPM2\HTQL_PhongTapGym_D12CNPM2.csproj", "{9DFAF74D-9123-409B-A3EB-69787989E426}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HTQL", "HTQL\HTQL.vdproj", "{D4BD8055-CA6C-40FB-9556-8056879C8081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DFAF74D-9123-409B-A3EB-69787989E426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFAF74D-9123-409B-A3EB-69787989E426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFAF74D-9123-409B-A3EB-69787989E426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFAF74D-9123-409B-A3EB-69787989E426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BD8055-CA6C-40FB-9556-8056879C8081}.Debug|Any CPU.ActiveCfg = Debug
+		{D4BD8055-CA6C-40FB-9556-8056879C8081}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6428897B-3BA3-4638-8C9A-5C3BE0240945}
+	EndGlobalSection
+EndGlobal

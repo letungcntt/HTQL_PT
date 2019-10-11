@@ -1,0 +1,16 @@
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\bin\Debug\HTQL_DenDuong_D12CNPM2.exe.config
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\bin\Debug\HTQL_DenDuong_D12CNPM2.exe
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\bin\Debug\HTQL_DenDuong_D12CNPM2.pdb
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.Form1.resources
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.He_Thong.resources
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.Properties.Resources.resources
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_PhongTapGym_D12CNPM2.csproj.GenerateResource.cache
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.exe
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.pdb
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.ThanhVien.resources
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.AddAccount.resources
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.HLV.resources
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.DoiMatKhau.resources
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.The.resources
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.CheckBox.resources
+E:\Visual Studio 2019\HTQL_PhongTapGym_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_PhongTapGym_D12CNPM2.csprojAssemblyReference.cache

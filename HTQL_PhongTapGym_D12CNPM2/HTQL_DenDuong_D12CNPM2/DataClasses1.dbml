@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="HTQL" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-8C8U84B\SQLEXPRESS;Initial Catalog=HTQL;Integrated Security=True" SettingsObjectName="HTQL_DenDuong_D12CNPM2.Properties.Settings" SettingsPropertyName="HTQLConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.THANHVIEN" Member="THANHVIENs">
+    <Type Name="THANHVIEN">
+      <Column Name="MATV" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENTV" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NAMSINH" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="DIACHI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GIOI_TINH" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DIEM" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="XEPHANG" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="THANHVIEN_QUANLY" Member="QUANLies" ThisKey="MATV" OtherKey="MATV" Type="QUANLY" />
+    </Type>
+  </Table>
+  <Table Name="dbo.QUANLY" Member="QUANLies">
+    <Type Name="QUANLY">
+      <Column Name="MAHD" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MATV" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MAHLV" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MATHE" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="THANHVIEN_QUANLY" Member="THANHVIEN" ThisKey="MATV" OtherKey="MATV" Type="THANHVIEN" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="THE_QUANLY" Member="THE" ThisKey="MATHE" OtherKey="MATHE" Type="THE" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.THE" Member="THEs">
+    <Type Name="THE">
+      <Column Name="MATHE" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENTHE" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NGAY_KICH_HOAT" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NGAY_HET_HAN" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="THE_QUANLY" Member="QUANLies" ThisKey="MATHE" OtherKey="MATHE" Type="QUANLY" />
+    </Type>
+  </Table>
+</Database>

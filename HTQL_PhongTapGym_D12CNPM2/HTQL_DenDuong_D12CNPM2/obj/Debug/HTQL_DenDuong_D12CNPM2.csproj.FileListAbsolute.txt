@@ -1,0 +1,10 @@
+C:\Users\letun\source\repos\HTQL_DenDuong_D12CNPM2\HTQL_DenDuong_D12CNPM2\bin\Debug\HTQL_DenDuong_D12CNPM2.exe.config
+C:\Users\letun\source\repos\HTQL_DenDuong_D12CNPM2\HTQL_DenDuong_D12CNPM2\bin\Debug\HTQL_DenDuong_D12CNPM2.exe
+C:\Users\letun\source\repos\HTQL_DenDuong_D12CNPM2\HTQL_DenDuong_D12CNPM2\bin\Debug\HTQL_DenDuong_D12CNPM2.pdb
+C:\Users\letun\source\repos\HTQL_DenDuong_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.csprojAssemblyReference.cache
+C:\Users\letun\source\repos\HTQL_DenDuong_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.Form1.resources
+C:\Users\letun\source\repos\HTQL_DenDuong_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.Properties.Resources.resources
+C:\Users\letun\source\repos\HTQL_DenDuong_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.csproj.GenerateResource.cache
+C:\Users\letun\source\repos\HTQL_DenDuong_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.csproj.CoreCompileInputs.cache
+C:\Users\letun\source\repos\HTQL_DenDuong_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.exe
+C:\Users\letun\source\repos\HTQL_DenDuong_D12CNPM2\HTQL_DenDuong_D12CNPM2\obj\Debug\HTQL_DenDuong_D12CNPM2.pdb
