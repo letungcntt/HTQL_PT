@@ -1,0 +1,41 @@
+.la{
+    background-color: green;
+    height: 35px;
+}
+.do{
+    background-color: red;
+    height: 90px;
+}
+.vang{
+    background-color: yellow;
+    height: 750px;
+    width: 150px;
+    float: left;
+}
+.main{
+    width: 1000px;
+}
+.cam{
+    background-color: red;
+    width: 700px;
+    height: 750px;
+    float: left;
+}
+.duong{
+    background-color: cyan;
+    width: 150px;
+    height: 750px;
+    float: left;
+}
+body{
+    background-color: gray;
+    padding: 0, 150, 0, 150;
+    width: 1000px;
+    margin: auto;
+}
+.xanh{
+    background-color: deepskyblue;
+    height: 20px;
+    width: 100%;
+    float: left;
+}

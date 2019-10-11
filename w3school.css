@@ -1,0 +1,40 @@
+img{
+    width: 278px;
+    float: left;
+}
+.traitren{
+    width: 278px;
+}
+.phaitren{
+    float: right;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+.tren{
+    margin-top: 25px;
+}
+div.thanh{
+    height: 57px;
+    background-color: #F4260B;
+    float: left;
+    width: 100%;
+}
+.trai{
+    width: 230px;
+    float: left;
+    background-color: yellow;
+    height: 1000px;
+}
+.trai1{
+    float: left;
+    background-color: orange;
+    height: 491px;
+    width: 460px;
+}
+.phai1{
+    float: left;
+    background-color: aqua;
+    height: 491px;
+    width: 460px;
+    margin-left: 49px;
+}
